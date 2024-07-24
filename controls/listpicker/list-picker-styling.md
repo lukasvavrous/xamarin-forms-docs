@@ -13,7 +13,7 @@ slug: list-picker-styling
 List Picker for Xamarin provides the followind Style properties for customizing its look:
 
 * **ItemStyle**(of type *Style* with target type **telerikDataControls:SpinnerItemView**): Defines the style applied to the list of items.
-* **SelectedItemStyle**(of type *Style* with target type **telerikDataControls:SpinnerItemView**): Defines the style applied to the seledted item.
+* **SelectedItemStyle**(of type *Style* with target type **telerikDataControls:SpinnerItemView**): Defines the style applied to the selected item.
 * **SelectionHighlightStyle**(of type *Style* with target type **telerikPrimitives:RadBorder**): Specifies the style applied to the border where the current selection is.  
 * **PlaceholderLabelStyle**(of type *Style* with target type **Label**): Defines the style applied to the placeholder label.
 * **DisplayLabelStyle**(of type *Style* with target type **Label**): Defines the style applied to the label which is visualized when item of the list is selected.
